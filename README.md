@@ -16,6 +16,3 @@ MIQOLS. 2020. Estes Weighted Index of Social Progress. MIQOLS. [Online]. [Date A
 
 World Countries - shape file - used to define country borders
 opendatasoft. 2024. World Administrative Boundaries - Countries and Territories. World Food Programme (UN agency). [Online]. [Accessed 20 Jul 25]. Available from: https://www.miqols.org/toolbox/isp.html
-
-
-Link to GitHub repository - https://github.com/Mickymick23/GEOG5003M/tree/main
